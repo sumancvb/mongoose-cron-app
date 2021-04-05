@@ -1,4 +1,4 @@
-# A blank Mongoose OS cron app
+# A Mongoose OS cron app
 
 ## Overview
 
